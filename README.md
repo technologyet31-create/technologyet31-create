@@ -25,7 +25,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,html,css,tailwind,python,dart,flutter,git,github,vscode" alt="JavaScript, TypeScript, React, Next.js, Node.js, HTML, CSS, Tailwind CSS, Python, Dart, Flutter, Git, GitHub, VS Code" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,python,dart,flutter,git,github,vscode" alt="JavaScript, TypeScript, React, Next.js, Node.js, HTML, CSS, Tailwind CSS, Python, Dart, Flutter, Git, GitHub, VS Code" />
   </a>
 </p>
 
@@ -43,12 +43,23 @@
 
 ## 📈 GitHub Stats
 
-![technologyet31-create's Stats](https://github-readme-stats.vercel.app/api?username=technologyet31-create&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![technologyet31-create's Streak](https://github-readme-streak-stats.herokuapp.com/?user=technologyet31-create&theme=dracula&hide_border=true)
-![technologyet31-create's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technologyet31-create&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=technologyet31-create&theme=dracula" alt="technologyet31-create profile details" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=technologyet31-create&theme=dracula" alt="technologyet31-create GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=technologyet31-create&theme=dracula" alt="technologyet31-create top languages by repo" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=technologyet31-create&theme=dracula&hide_border=true" alt="technologyet31-create GitHub streak" />
+</p>
 
 <br>
 
 Look who's visiting?
 
-[![technologyet31-create profile views](https://u8views.com/api/v1/github/profiles/236259618/views/day-week-month-total-count.svg)](https://u8views.com/github/technologyet31-create)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=technologyet31-create&style=flat-square&color=blueviolet" alt="technologyet31-create profile views" />
+</p>
